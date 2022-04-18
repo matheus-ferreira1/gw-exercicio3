@@ -1,0 +1,10 @@
+body {
+   height: 100vh;
+   display: flex;
+}
+
+.wrapper {
+   margin: auto;
+   text-align: center;
+   line-height: 30px;
+}
